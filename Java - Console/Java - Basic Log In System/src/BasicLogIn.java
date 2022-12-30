@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class LogIn {
+public class BasicLogIn {
     
     static Scanner scanner = new Scanner(System.in);
     static String correctUsername = "admin";
