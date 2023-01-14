@@ -1,8 +1,6 @@
-// Under construction :>. I am not good at this patterns.
-
 import java.util.Scanner;
 
-public class Pyramid {
+public class Triangle {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
@@ -15,7 +13,7 @@ public class Pyramid {
             for(int b = 0; b < size; b++) {
                 
                 if(a >= b) {
-                    System.out.print(b + " ");
+                    System.out.print("* ");
                 }
                 
             }
@@ -27,7 +25,7 @@ public class Pyramid {
             for(int b = size; b >= 0; b--) {
                 
                 if(a > b) {
-                    System.out.print(b + " ");
+                    System.out.print("* ");
                 }
                 
             }
