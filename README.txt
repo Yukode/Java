@@ -1,6 +1,6 @@
 Language: Java
 
-Hi there, hope I can help you with your programming tasks.
+Hi there, hope this will help you with your programming tasks.
 Goodluck!
 
 Creator, Yukode.
